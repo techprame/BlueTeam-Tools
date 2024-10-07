@@ -1625,7 +1625,7 @@ You can download the tool from [here](https://www.ccleaner.com/recuva).
 
 **Usage:** 
 
-Nice step by step [guide](https://toolbox.iskysoft.com/data-recovery-tips/recuva-windows-10.html).
+Nice step by step [guide](https://www.macfinite.com/how-to-lock-and-unlock-macbook-keyboard/).
 
 ![image](https://user-images.githubusercontent.com/100603074/210668891-58312f55-d4d0-4f77-9cd6-f716bbdb5b44.png)
 
